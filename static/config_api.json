@@ -1,4 +1,4 @@
 {
-    "api_key": "Вказати свій api_key",
+    "api_key": "http://api.openweathermap.org/data/2.5/forecast?id=524901&appid={API key}",
     "city_name": "Dnipro"
 }
